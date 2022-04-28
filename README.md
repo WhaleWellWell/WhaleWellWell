@@ -1,3 +1,5 @@
+![An AWESOME Header]()
+
 ### 👋 Hi there, Whale here...
 Just wanted to say HELLO! I am WhaleWellWell, which is a play on the words, "Well well well" which means, "Indicating pondering or consideration, often with sarcasm or mock surprise." So, with all that out of the way... welcome to my profile! :)
 
