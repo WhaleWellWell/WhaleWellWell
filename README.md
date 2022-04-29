@@ -15,8 +15,12 @@ Just wanted to say HELLO! I am WhaleWellWell, which is a play on the words, "Wel
 - 💕 I also know how to use JQuery and Bootstrap...
 
 #### 🔍 Take a look at some of my stats:
-[![Whale's's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhaleWellWell)](https://github.com/WhaleWellWell/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleWellWell)](https://github.com/WhaleWellWell/github-readme-stats)
+[![Whale's's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhaleWellWell&theme=black-ice)](https://github.com/WhaleWellWell/github-readme-stats)
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=WhaleWellWell&theme=white&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleWellWell&theme=black-ice)](https://github.com/WhaleWellWell/github-readme-stats)
+
 
 ### 🤔 Feel free to say, "Hello!" or help out with any repo I have! :)
 Thanks for stopping by! 😀
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=WhaleWellWell&theme=dracula)
