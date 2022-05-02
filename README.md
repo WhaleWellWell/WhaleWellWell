@@ -14,6 +14,10 @@ Just wanted to say HELLO! I am WhaleWellWell, which is a play on the words, "Wel
 - 🗜️ C++
 - 💕 I also know how to use JQuery and Bootstrap...
 
+## 🔎 You could find me on:
+- [🖊️ Codepen](https://codepen.io/WhaleWellWell)
+- [📚 Stack Overflow](https://stackoverflow.com/users/18981665/whalewellwell)
+
 #### 🔍 Take a look at some of my stats:
 [![Whale's's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhaleWellWell&theme=black-ice)](https://github.com/WhaleWellWell/github-readme-stats)
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=WhaleWellWell&theme=white&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
