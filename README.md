@@ -17,6 +17,7 @@ Just wanted to say HELLO! I am WhaleWellWell, which is a play on the words, "Wel
 ## 🔎 You could find me on:
 - [🖊️ Codepen](https://codepen.io/WhaleWellWell)
 - [📚 Stack Overflow](https://stackoverflow.com/users/18981665/whalewellwell)
+- [🕸️ WebDeveloper.com](https://webdeveloper.com/@WhaleWellWell/https://webdeveloper.com/@WhaleWellWell/)
 
 #### 🔍 Take a look at some of my stats:
 [![Whale's's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhaleWellWell&theme=black-ice)](https://github.com/WhaleWellWell/github-readme-stats)
