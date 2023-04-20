@@ -1,4 +1,5 @@
 ![An AWESOME Header](./HeaderWDev.png)
+
 ![](https://img.shields.io/badge/Code%20Editor-VSCode-blue)
 ![](https://img.shields.io/badge/OS-Linux-blue)
 ![](https://img.shields.io/badge/Lang-JavaScript-blue)
@@ -35,7 +36,7 @@ print("Stats:")
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleWellWell&theme=blue)](https://github.com/WhaleWellWell/github-readme-stats)
-
+<img height="250px" align="right" src="./WdevLogo.png">
 <hr>
 
 I hope to use ```Js``` more 😞...
