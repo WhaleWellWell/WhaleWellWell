@@ -1,62 +1,72 @@
 ![An AWESOME Header](./HeaderWDev.png)
+<!-- Sheilds and Buttons for stats: -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Editor-VSCode-blue">
+  <img src="https://img.shields.io/badge/OS-Windows-blue">
+  <img src="https://img.shields.io/badge/Title-JuniorDeveloper-blue">
+  <img src="https://komarev.com/ghpvc/?username=WhaleWellWell&color=blue">
+</p>
 
-![Viewer](https://komarev.com/ghpvc/?username=WhaleWellWell&color=blue)
-![](https://img.shields.io/badge/Code%20Editor-VSCode-blue)
-![](https://img.shields.io/badge/OS-Windows-blue)
-![](https://img.shields.io/badge/Title-JuniorDeveloper-blue)
 
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-Hi, my name is **Whale Well Well** and I am 14 years old! I am a self taught Jr. developer, and have taken many online courses on **Edx**, **Codecadamy**, **The Odin Project**, **Github**, and **Pluralsight**. Over the past couple years, I have learned many programming languages, including: 
-
+<!-- Icons for my programming languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,pug,css,scss,js,py,bash,jquery,bootstrap,github,vscode,codepen,figma,cpp,cs,md,nodejs,raspberrypi,regex,unity,vue,visualstudio,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,vue" />
   </a>
 </p>
 
-<hr>
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=WhaleWellWell&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
-<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,github,git" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs" />
+  </a>
+</p>
+
+<!-- Stats of varous kinds: -->
+
+## Some cool stats about me:
+<p align="center">
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=WhaleWellWell&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
+</p>
+
+# Contact: 
+these are some links (click on them!):
+
+<p align="center">
+  <a style="margin:10%;" href="https://stackoverflow.com/users/18981665/whalewellwell">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+  <a style="margin:10%;" href="https://codepen.io/WhaleWellWell">
+    <img src="https://skillicons.dev/icons?i=codepen"/>
+  </a>
+  <a style="margin:10%;" href="#">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+## About me:
+
+Hi, my name is **Whale Well Well**. I am a self taught Jr. developer, and have taken many online courses on **Edx**, **Codecadamy**, **The Odin Project**, **Github**, and **Pluralsight**. Over the past couple years, I have learned many programming languages, including: 
+
+- ```Html``` ( Also ```PUG``` )
+- ```Css``` ( And ```SASS``` )
+- ```JavaScript``` (```Vue```!)
+- ```Python```
+- ```C++``` (```C#```)
+- ```Shell``` ( ```Bash``` )
+- I also know how to use ```JQuery``` and ```Bootstrap```.
+- Alo any more that you saw at the top of this ^
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=WhaleWellWell&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleWellWell&layout=compact&count_private=true&theme=dark" />
-<a href="https://github.com/WhaleWellWell/Logger.js" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhaleWellWell&repo=Logger.js&theme=dark""></a>
 
-<hr>
+I am a:
+- Fontend Web Developer that would like to learn some backend some day...
+- Someone who thinks vue is the best framework (though I have never tried any other out :) )
+- Creator of some repos (you should definitely check them out!)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhaleWellWell&theme=dark) 
-<hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhaleWellWell&theme=dark) 
-<hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhaleWellWell&theme=dark) 
-<hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WhaleWellWell&theme=dark) 
-<hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhaleWellWell&theme=dark&utcOffset=8)
-
-
-# Contact:
-You can find me on several sites, including:
-
--  [Github]()
-- [Codepen](https://codepen.io/WhaleWellWell)
-- [Stack Overflow](https://stackoverflow.com/users/18981665/whalewellwell)
-- [WebDeveloper.com](https://webdeveloper.com/@WhaleWellWell/)
-
-# Stats:
-```Python
-print("Stats:")
-```
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhaleWellWell&theme=dark)](https://github.com/WhaleWellWell/github-readme-stats)
-<img height="250px" align="right" src="./WdevLogo.png">
-<hr>
-
-I hope to use ```Js``` more 😞...
+I am still learning about everything, so dont get mad if I do something really bad in my code... 
